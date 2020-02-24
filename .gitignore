@@ -1,0 +1,5 @@
+# Ignore file name such as "ali.txt"
+README.md
+
+# ignore Folder name  must add in the end /
+py3EnvCarDjangoCRUD/
